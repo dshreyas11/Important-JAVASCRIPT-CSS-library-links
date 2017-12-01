@@ -13,3 +13,7 @@ This is "Collection"/  an open for all library repository where one can contribu
 
 	#SVG tutorials
 		http://tutorials.jenkov.com/svg/index.html
+	
+	
+	#UI/UX articles and VERTICAL DESIGN LAYOUT:	
+		https://ettrics.com/articles/
